@@ -1,0 +1,1 @@
+g++ -o "/home/pi/projects/Ona/bin/x64/Debug/Ona.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/pi/projects/Ona/obj/x64/Debug/main.o /home/pi/projects/Ona/obj/x64/Debug/Ona.o
